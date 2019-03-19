@@ -1,5 +1,5 @@
 # WordCloud Introduction
-Introduction to creating WORDCLOUDs for Analysis
+Introduction to creating WORDCLOUDs for Analysis.
 
 ## Dataset used: 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00380/
